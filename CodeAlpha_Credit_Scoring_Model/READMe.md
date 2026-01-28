@@ -137,7 +137,6 @@ The following evaluation metrics were used:
 * Precision
 * Recall
 * F1 Score
-* ROC AUC Score
 * Confusion Matrix
 
 
@@ -190,4 +189,5 @@ Task 1 Credit Scoring Model
 Muhammad Sadeem Choudhary
 
 Machine Learning Intern at CodeAlpha
+
 
